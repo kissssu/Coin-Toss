@@ -5,8 +5,8 @@ This Bash script simulates a single coin flip and displays the result (Heads or 
 ## Usage
 
 1. Save the script to a file `coin_toss.sh`.
-2. Make the script executable: `chmod +x flip.sh`
-3. Run the script: `./flip.sh`
+2. Make the script executable: `chmod +x coin_toss.sh`
+3. Run the script: `./coin_toss.sh`
 
 The script will output the result of the coin flip.
 
