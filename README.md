@@ -1,6 +1,6 @@
 # Simple Coin Flip Script
 
-This Bash script simulates a single coin flip and displays the result (Heads or Tails).  This is a small, fun project.
+This Bash script simulates a single coin flip and displays the result (Heads/Tails).  This is a small, fun project.
 
 ## Usage
 
